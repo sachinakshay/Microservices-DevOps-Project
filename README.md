@@ -24,4 +24,4 @@ This project demonstrates a DevOps pipeline for a microservices-based architectu
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Bukola-Testimony/Microservices-DevOps-Project.git
+   git clone https://github.com/sachinakshay/Microservices-DevOps-Project.git
